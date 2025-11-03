@@ -1,9 +1,20 @@
-# CompTIA A+ Study Repository
+# CompTIA A+ Theory
 
-This repository documents my complete preparation for the CompTIA A+ certification exam.  
-The repository is divided into two parts:
+This repository contains all the theory material for the CompTIA A+ certification.  
 
-- **Theory** — Structured notes, diagrams, and annotated screenshots explaining key concepts.  
-- **Practice** — Hands-on labs and mini-projects applying the theory in real-world scenarios.
+The content is organized according to the two main parts of the exam:  
 
-Together, these materials demonstrate both my technical understanding and my ability to apply knowledge effectively.
+- **Core 1:**
+  - Mobile Devices  
+  - Networking  
+  - Hardware  
+  - Virtualization and Cloud Computing  
+  - Hardware and Network Troubleshooting  
+
+- **Core 2:**
+  - Operating Systems  
+  - Security  
+  - Software Troubleshooting  
+  - Operational Procedures  
+
+Each section is structured to align with the official exam objectives, providing a clear and organized reference for study and review.
